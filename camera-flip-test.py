@@ -3,7 +3,7 @@ from PIL import Image
 from picamera2 import Picamera2
 
 # Open your image file
-img = Image.open('your_image.jpg')
+#img = Image.open('your_image.jpg')
 
 
 # 2. Initialise the Raspberry Pi Camera
