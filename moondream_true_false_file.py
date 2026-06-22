@@ -13,7 +13,7 @@ image = Image.open("/home/kacooper/Desktop/images/boydressedassoldiercanva.png")
 
 
 # Example: Ask a question about the image
-answer = model.query(image, "is this a soldier? Give me an answer and a confidence score.")["answer"]
-print("Answer:", answer)
+answer = model.query(image, "is this a soldier? Answer either with TRUE or FALSE do not elaborate. You are giving us a simple one word answer and nothing else.")["answer"]
+print(answer)
 
 
