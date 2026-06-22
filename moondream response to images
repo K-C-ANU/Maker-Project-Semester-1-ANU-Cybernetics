@@ -1,0 +1,22 @@
+
+(moondream) kacooper@raspberrypi:~/Desktop $ python3 moondream_test.py 
+Answer: No, this is not a soldier. This is a person standing in a field of tall grass, silhouetted against a hazy, misty landscape. The image does not depict any military or combat-related elements.
+(moondream) kacooper@raspberrypi:~/Desktop $ python3 moondream_test.py 
+Answer: The image does not depict a soldier. It shows a person standing in a field with tall grass and a hazy background.
+(moondream) kacooper@raspberrypi:~/Desktop $ python3 moondream_test.py 
+Answer: No, this is not a soldier. This is a person standing in a field of tall grass. The image does not provide enough detail to confirm their role or profession. Confidence score: 1/10
+(moondream) kacooper@raspberrypi:~/Desktop $ 
+(moondream) kacooper@raspberrypi:~/Desktop $ python3 moondream_test.py 
+Answer: No, this is not a soldier. This is a person standing in a field. Confidence score: 0.5
+(moondream) kacooper@raspberrypi:~/Desktop $ python3 moondream_test.py 
+Answer: No, this is not a soldier. This is a person standing in a field of tall grass. The image does not provide enough detail to confirm their role or profession.
+(moondream) kacooper@raspberrypi:~/Desktop $ 
+(moondream) kacooper@raspberrypi:~/Desktop $ python3 moondream_test.py 
+Answer: No, this is not a soldier. The image depicts a lone figure in a field with tall grass and a hazy atmosphere.
+(moondream) kacooper@raspberrypi:~/Desktop $ 
+(moondream) kacooper@raspberrypi:~/Desktop $ python3 moondream_test.py 
+Answer: No, this is not a soldier. The image shows a person standing in a field of tall grass, not a military figure.
+(moondream) kacooper@raspberrypi:~/Desktop $ python3 moondream_test.py 
+Answer: No, this is not a soldier. This is a person standing in a field. Confidence score: 0.5
+(moondream) kacooper@raspberrypi:~/Desktop $ 
+
